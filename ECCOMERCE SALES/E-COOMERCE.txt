@@ -1,0 +1,5 @@
+1. Monthly Sales Analysis Of the Company?
+2. Analysis of sales by category (Technology , Furniture , Office supply)
+3.Analysis of Monthly Profits .
+4.Profit Analysis BY Category.
+5. Sales and profit analysis by customer segments.
